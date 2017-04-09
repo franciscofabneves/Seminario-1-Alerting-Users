@@ -5,3 +5,6 @@ Repositório do Seminário Frameworks CSS - Alerting Users
 - Eduardo Fernandes
 - Victor Hugo Moura
 - Wender Vitor
+
+## Slides
+https://slides.com/eduardofernandes-2/seminario1/live
