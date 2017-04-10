@@ -8,3 +8,6 @@ Repositório do Seminário Frameworks CSS - Alerting Users
 
 ## Slides
 https://slides.com/eduardofernandes-2/seminario1/live
+
+## Exercício
+https://wendervitor.github.io/coltecmail.github.io/
