@@ -7,7 +7,7 @@ Repositório do Seminário Frameworks CSS - Alerting Users
 - Wender Vitor
 
 ## Slides
-http://slides.com/victorhugomoura/seminario1
+http://slides.com/victorhugomoura/seminario1/live
 
 ## Showcases
 ### Alert Showcase
