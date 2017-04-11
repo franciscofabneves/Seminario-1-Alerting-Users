@@ -16,4 +16,4 @@ https://eduardofernandes1410.github.io/Seminario-1-Alerting-Users/Alert/alert.ht
 https://eduardofernandes1410.github.io/Seminario-1-Alerting-Users/Progress/progress.html
 
 ## Exercício
-https://wendervitor.github.io/coltecmail.github.io/
+https://github.com/EduardoFernandes1410/Seminario-1-Alerting-Users/tree/master/Exerc%C3%ADcio
