@@ -1,0 +1,13 @@
+.sidebar {
+    width: 15%;
+    float: left;
+}
+
+.msgs {
+    width: 85%;
+    float: left;
+}
+
+.full {
+    width: 100%;
+}
